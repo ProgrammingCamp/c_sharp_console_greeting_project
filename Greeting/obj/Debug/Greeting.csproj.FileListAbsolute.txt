@@ -1,0 +1,5 @@
+E:\Programming Camp\Desktop Application Development Training\Greeting\Greeting\bin\Debug\Greeting.exe.config
+E:\Programming Camp\Desktop Application Development Training\Greeting\Greeting\bin\Debug\Greeting.exe
+E:\Programming Camp\Desktop Application Development Training\Greeting\Greeting\bin\Debug\Greeting.pdb
+E:\Programming Camp\Desktop Application Development Training\Greeting\Greeting\obj\Debug\Greeting.exe
+E:\Programming Camp\Desktop Application Development Training\Greeting\Greeting\obj\Debug\Greeting.pdb
